@@ -1,10 +1,5 @@
 package gebTest.def;
 
-@Grapes([
-    @Grab("org.gebish:geb-core:latest.release"),
-	@Grab("org.seleniumhq.selenium:selenium-ie-driver:latest.release")
-])
-
 import geb.Browser
 import org.junit.Test;
 
